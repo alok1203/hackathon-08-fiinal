@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hackathondockerfiles;AccountKey=E52+9CfURawhqaEDlRF7INTAi0nC48D+ox6OFxgBg6NU5NhYBuur+3O/acF9x1mXVT+XRvSpfmPOotReOwZK0Q==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
